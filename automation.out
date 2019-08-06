@@ -1,0 +1,6 @@
+2019-08-06 11:08:539 INFO  LoggerTest:28 - TestCase passed
+2019-08-06 11:08:543 WARN  LoggerTest:29 - Please check the warning
+2019-08-06 11:08:58 INFO  LoggerTest:28 - TestCase passed
+2019-08-06 11:08:63 WARN  LoggerTest:29 - Please check the warning
+2019-08-06 11:08:64 ERROR LoggerTest:30 - critical error
+2019-08-06 11:08:64 INFO  LoggerTest:31 - test case three passed
